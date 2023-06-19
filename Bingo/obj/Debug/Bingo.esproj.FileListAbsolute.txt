@@ -1,0 +1,2 @@
+A:\Visual Studio\Bingo\obj\Debug\Bingo.esproj.SuggestedBindingRedirects.cache
+A:\Visual Studio\Bingo\obj\Debug\Bingo.esproj.CoreCompileInputs.cache
